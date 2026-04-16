@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="visual_4_github_banner-converted-from-svg" src="https://github.com/user-attachments/assets/1035cfb1-d031-469d-9673-7be65d7fb4df" />
+
 # Power BI Bookmark AutoUpdater
 
 > Programmatically update Year and Month filters across all bookmarks and pages in a Power BI Project (PBIP) — without opening Power BI Desktop.
